@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to my pythings pages
 
-You can use the [editor on GitHub](https://github.com/ianleggett/pythings/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+First project:
+1. get minute bars working for FX and use zipline for back testing.
+2. create a series of synthetic instruments based on 30, 50 90, 120 minute momentum prices ([link](https://www.oreilly.com/learning/algorithmic-trading-in-less-than-100-lines-of-python-code?imm_mid=0ed016&cmp=em-na-na-na-newsltr_fintech_20170206)
+3. take Markowitz portfolio optimiser and apply it to all instruments including sythetics
+4. Run every period(x) trade!
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ianleggett/pythings/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
